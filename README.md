@@ -93,11 +93,3 @@ This project conducts a comprehensive fairness analysis and bias mitigation stra
 - FairLearn provides scalable methods for enforcing fairness constraints
 
 ---
-
-## 📝 References
-
-- Julia Angwin et al., *Machine Bias*, ProPublica (2016)
-- Jon Kleinberg et al., *Inherent Trade-Offs in the Fair Determination of Risk Scores* (2017)
-- Tim Brennan et al., *Evaluating the Predictive Validity of the COMPAS Risk and Needs Assessment*
-
----
